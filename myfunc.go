@@ -1,4 +1,4 @@
-package main
+package testexp
 
 import "fmt"
 
